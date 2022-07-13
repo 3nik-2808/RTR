@@ -4,7 +4,6 @@
 
 ## Introduction
 
----
 An ESC Protocol is the “language” that the flight controllers (FC) and ESC use to communicate, one of the most basic task is to tell how fast the motor should be spinning.
 
 There are various kinds of protocols, however, they are divided into two main types: digital and analog.
@@ -13,7 +12,6 @@ Traditionally, PWM, an analog protocol, is widely used to communicate with drive
 
 ## I. BLDC motors
 
----
 List of contents:
 
 1. Principle of BLDC motors.
@@ -43,7 +41,6 @@ There are two types of BLDC motors based on their construction/design: inner rot
 
 ## II. Analog Protocols
 
----
 List of contents:
 
 1. PAM, PWM and PPM.
@@ -96,8 +93,6 @@ Here below are some details of Oneshot125, Oneshot42 and Multishot:
 Although that faster analog protocols provide us with advantages, there are also drawbacks. As mentioned, short pulse length protocols are easily influenced by electrical noises, meaning that newer analog protocols can be significantly affected.
 
 ## III. Digital Protocols
-
----
 
 List of contents:
 
