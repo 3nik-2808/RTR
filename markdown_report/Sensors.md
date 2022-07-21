@@ -67,7 +67,7 @@ List of contents:
 
 As mentioned, accelerometer is a device that return acceleration measured in its 3 local axes x, y and z. To accomplish this, it uses a structure that works like a capacitors. Base on the plate movement, the corresponding value of capacity will be calculated, from there, the acceleration in a local axis is determined. To measure acceleration in 3 axes, advanced structures of the indicated model are applied.
 
-![Accelerometer's Structure](https://github.com/nhan280802/RTR/blob/main/markdown_report/Sensors.md)
+![Accelerometer's Structure](https://www.electronicwings.com/storage/PlatformSection/TopicContent/128/description/1_Accelerometer_Sensor_MEMs_Mechanism.PNG)
 
 There are some configurations that need to be done to calculate the accurate acceleration:
 
